@@ -12,7 +12,7 @@ https://arxiv.org/abs/2205.00300 and
 https://iopscience.iop.org/article/10.1088/0953-8984/27/16/166002/meta
 
 
-Here is an example given for the ferromagnetic CrI3 using magnetic coupling paramters in 2D Mater. 4 (2017) 035002.
+Here is an example given for the ferromagnetic CrI3 using magnetic coupling parameters in 2D Mater. 4 (2017) 035002.
 
 CrI3 magnon dispersion curve:
 
