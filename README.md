@@ -8,7 +8,7 @@ This is the collinear only version of the work in J. Phys.: Condens. Matter 27 (
 For 2D materials only, this code can also calculate the magnetization vs. temperature curves. 
 
 If you use this code, please cite:
-<\br>https://arxiv.org/abs/2205.00300 and <\br>
+https://arxiv.org/abs/2205.00300 and
 https://iopscience.iop.org/article/10.1088/0953-8984/27/16/166002/meta
 
 
