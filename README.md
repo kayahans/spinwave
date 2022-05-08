@@ -8,8 +8,8 @@ For 2D materials only, this code can also calculate the magnetization vs. temper
 Here is an example given for the ferromagnetic CrI3 using magnetic coupling paramters in 2D Mater. 4 (2017) 035002.
 
 CrI3 magnon dispersion curve:
-![magnon](/examples/cri3/band_line.pdf)
+![magnon](/examples/cri3/band_line.png)
 
 CrI3 magnetization curve:
-![magnetization](/examples/cri3/CrI3_magnetization.pdf)
+![magnetization](/examples/cri3/CrI3_magnetization.png)
 
