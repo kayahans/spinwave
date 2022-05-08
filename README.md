@@ -1,0 +1,2 @@
+# spinwave
+Collinear spinwave calculations
