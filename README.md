@@ -1,7 +1,7 @@
 # spinwave
 Collinear spinwave calculations
 
-Calculates Linear Spinwave Theory hamiltonians
+Calculates linear spinwave theory Hamiltonians
 
 This is the collinear only version of the work in J. Phys.: Condens. Matter 27 (2015) 166002.
 
